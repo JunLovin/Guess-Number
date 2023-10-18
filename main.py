@@ -13,4 +13,4 @@ while not guess:
     else:
         print("Less")
         
-# Made by JunLovin
+# Made by JunLovin https://github.com/JunLovin
